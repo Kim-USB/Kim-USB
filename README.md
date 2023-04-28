@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Kim Woo Seob&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 # 안녕하세요, 김우섭입니다!
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69e1ccf3-d246-451e-bcb6-c94ef7e65c54/Untitled.png)
 
 ## Kim Woo Seob
 
@@ -13,7 +10,7 @@ kkromio08@naver.com
 
 ### 📷 **Instagram**
 
-[](https://www.instagram.com/uuuuuu_sb/)
+(https://www.instagram.com/uuuuuu_sb/)
 
 ## 🏆Awards(고등학교 수상)
 
@@ -44,45 +41,29 @@ kkromio08@naver.com
 
 ---
 
-역량의 전문성에 따라 상• 중• 하 수준으로 분류하였고 각 항목을 눌러 상세 내용을 확인 가능합니다.
+IoT 관련 기술들과 컴퓨터 언어, 운영체제 등을 배우고 경험했습니다.
 
+<상>
+- Audino
+
+- Raspberry pie
+
+- Logisim
+---
+<중>
+- HeidiSQL
+---
+<하>
 - C
-    
-    ![화면 캡처 2021-11-25 150246.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c8c01b73-9d07-400b-8137-f7f5b44e4096/화면_캡처_2021-11-25_150246.png)
-    
+        
 - JAVA
-    
-    ![화면 캡처 2021-11-25 143927.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3b7dfbd-f3aa-4f4c-92b4-8f3c50c2fbb4/화면_캡처_2021-11-25_143927.png)
-    
-- C++
-    
-    ![화면 캡처 2021-11-25 145836.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2c43cb5f-c3da-4000-ba91-fd7bf6e2c942/화면_캡처_2021-11-25_145836.png)
-    
+      
+- C++ 
 
 - Visual Stdio Code
     
-    ![화면 캡처 2021-11-25 150412.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1997aac6-1503-4345-8e34-1f877f257f2f/화면_캡처_2021-11-25_150412.png)
-    
-    ![화면 캡처 2021-11-25 150501.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19a402b8-df8e-45eb-8de3-3cad0a6c8285/화면_캡처_2021-11-25_150501.png)
-    
-- Audino
-    
-    [다운로드 (1).jfif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9b4d9f6-64a4-4d40-a83a-ad42573afcad/다운로드_(1).jfif)
-    
-- HeidiSQL
-    
-    ![화면 캡처 2021-11-25 150624.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3eff47df-3e10-4d20-9d2b-51d79aed3323/화면_캡처_2021-11-25_150624.png)
-    
-
-- Logisim
-    
-    ![화면 캡처 2021-11-25 150706.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b737a8a5-aac4-45bc-aedb-8ac1128b7603/화면_캡처_2021-11-25_150706.png)
-    
-    ![화면 캡처 2021-11-25 150723.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d21a1ff-674b-4fe7-8f1a-8e9b5694a320/화면_캡처_2021-11-25_150723.png)
-    
 - Linux
     
-    ![화면 캡처 2021-11-25 151231.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfdbc8d5-3948-4191-a2b5-6034d5dccf97/화면_캡처_2021-11-25_151231.png)
     
 
 ## 👨‍🏫Project
