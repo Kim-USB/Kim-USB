@@ -31,7 +31,7 @@ kkromio08@naver.com
 ### 자격증
 
 - ITQ(Power point, Word, Excel)
-- 정보처리기능사(한글, PowerPoint, Excel)
+- 정보처리기능사
 
 ### 학력
 
@@ -53,7 +53,7 @@ IoT 관련 기술들과 컴퓨터 언어, 운영체제 등을 배우고 경험�
 <중>
 - HeidiSQL
 
-- 정보처리관리
+- 정보처리관리(한글, PowerPoint, Excel)
 ---
 <하>
 - C
