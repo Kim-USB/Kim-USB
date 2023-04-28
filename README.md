@@ -31,7 +31,7 @@ kkromio08@naver.com
 ### 자격증
 
 - ITQ(Power point, Word, Excel)
-- 정보처리기능사
+- 정보처리기능사(한글, PowerPoint, Excel)
 
 ### 학력
 
