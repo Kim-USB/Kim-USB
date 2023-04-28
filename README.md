@@ -4,6 +4,9 @@
 
 경북소프트웨어고등학교를 다니며 여러 컴퓨터 언어들에 대해 배우고 경험하고 있습니다.
 
+### 📜 **Portfolio**
+https://www.notion.so/52c004adea6e4c76a57e48603a46ed2d?pvs=4
+
 ### 📧 **Email**
 
 kkromio08@naver.com
