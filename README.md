@@ -107,3 +107,5 @@ IoT 관련 기술들과 컴퓨터 언어, 운영체제 등을 배우고 경험�
 [2학년 2학기 캡스톤](https://www.notion.so/2-2-a0979b9e447f45ef8a2e05e137b180be)
 
 [3학년 1학기 캡스톤(진행중)](https://www.notion.so/3-1-c743a0724f1b487aba3c8c231062066c)
+
+[최종](https://www.notion.so/199fe9e6187d803698c2d23a6a816e5f?pvs=25)
